@@ -1,0 +1,6 @@
+Test=set()
+Test.add(1)
+Test.add(2)
+Test.add(3)
+Test.add(0.2)
+print(Test)
